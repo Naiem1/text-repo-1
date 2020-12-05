@@ -1,0 +1,2 @@
+Version control with Git
+Git is the best choice for most software teams today. While every team is different and should do their own analysis, here are the main reasons why version control with Git is preferred over alternatives:

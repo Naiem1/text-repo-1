@@ -9,7 +9,7 @@
 5. Create two remote repository on github.
 6. Push your local repository to remote.
 7. Add README.md file on both repository with some basic markdown text.
-8. Attach me your repository links in a google docs document.
+8. Attach me your repository links in a google docs document
 
 
 ## Available content
